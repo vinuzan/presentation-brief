@@ -7,3 +7,5 @@ Highlight the objectives
 
 ### Background
 If required, provide with some relevant knowledge
+confidence
+## attitude
