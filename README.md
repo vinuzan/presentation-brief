@@ -1,9 +1,9 @@
-# README file for our presentation
+# Presentation Brief
 
-This is some text :)
+This document will be a guidance for the presentation on friday
 
-## I'm a H2 header
+## Introduction
+Highlight the objectives
 
-This is more text
-
-### I'm a H3 header
+### Background
+If required, provide with some relevant knowledge
